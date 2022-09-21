@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "project1"
+		},
+		{
+			"path": "project2"
+		},
+		{
+			"path": "project3"
+		},
+		{
+			"path": "project4"
+		},
+		{
+			"path": "project5"
+		},
+	],
+	"settings": {
+		"docker.imageBuildContextPath": ".",
+		"comments.openPanel": "openOnSessionStart",
+		"todo-tree.tree.showBadges": true,
+		"git.ignoreLimitWarning": true
+	},
+}
