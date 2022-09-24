@@ -5,15 +5,13 @@
 ## About Me
 I'm a former bond trader and consultant who has worked at the intersection of finance and technology for ten years.  I'm interested in use cases for blockchain that enable individuals and businesses to transact with greater efficiency, transparency, and security.  If you'd like to connect with me, feel free to follow or DM me on Twitter.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/galen211?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=galen211)
-
-## Nanodegree Projects
+## Projects
 
 - [x] [Project 1: Create Your Own Private Blockchain](#project-1)
 - [x] [Project 2: Build CryptoStar Dapp on Ethereum](#project-2)
 - [x] [Project 3: Ethereum Dapp for Tracking Items through Supply Chain](#project-3)
 - [x] [Project 4: FlightSurety](#project-4)
-- [ ] [Project 5: Real Estate Marketplace Capstone](#project-5)
+- [x] [Project 5: Real Estate Marketplace Capstone](#project-5)
 
 ## Github Repo Structure
 This repo is a [multi-root workspace](https://code.visualstudio.com/docs/editor/multi-root-workspaces) configured in [Visual Studio Code](https://code.visualstudio.com/).  To open the workspace in VS Code, open the `blockchain.code-workspace` file.  Each root is a project folder containing a project submission to the Blockchain Developer Nanodegree.  Each project contains a `README.md` file with further instructions on running the project code.
