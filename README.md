@@ -2,8 +2,6 @@
 
 # Blockchain Development and Security Projects
 
-## About Me
-I'm interested in use cases for blockchain that enable individuals and businesses to transact with greater efficiency, transparency, and security.  
 
 - [x] [Project 1: Create Your Own Private Blockchain](#project-1)
 - [x] [Project 2: Build CryptoStar Dapp on Ethereum](#project-2)
